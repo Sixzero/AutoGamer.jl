@@ -1,0 +1,4 @@
+.vscode
+data/*
+tensorboard_logs/**/*
+Manifest.toml
