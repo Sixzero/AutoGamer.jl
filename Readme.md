@@ -2,12 +2,14 @@
 
 A simple package to automate UI usage and games on Android using Julia.
 
+
+
 - Collecting gameplay data (recording gameplay video and touches on the screen)
 - Preprocess the collected data (extracting frames from the video, and matching them with touches)
 - Train a model to play the game
 - Run the model to play the game
 
-Still, the package is unpolished, but it works and can be a good base for someone facing similar problems.
+**The dream is to have a package that can automate any game or UI on mobiles.** The package is not there yet, but it is a good start.
 
 ## Realtime example
 
