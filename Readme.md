@@ -1,6 +1,6 @@
 # AutoGamer.jl
 
-A simple package to automate playing games on Android using Julia.
+A simple package to automate UI usage and games on Android using Julia.
 
 - Collecting gameplay data (recording gameplay video and touches on the screen)
 - Preprocess the collected data (extracting frames from the video, and matching with touches)
